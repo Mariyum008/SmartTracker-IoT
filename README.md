@@ -1,6 +1,6 @@
 # :red_car: IoT-Based Vehicle Location and Speed Monitoring for Parental Peace of Mind :red_car:
 
-![IoT Monitoring](https://via.placeholder.com/1200x300.png?text=IoT+Vehicle+Monitoring)
+![IoT Monitoring](IOT.jpeg)
 
 Welcome to our project **"IoT-Based Vehicle Location and Speed Monitoring for Parental Peace of Mind"**. This system leverages IoT technology to provide real-time updates on vehicle location and speed, ensuring enhanced safety for young drivers and peace of mind for parents through the Blynk app.
 
